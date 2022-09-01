@@ -1,1 +1,1 @@
-Display the contents list of your currentdirectory in a long format
+a script that switches the current user to the user
